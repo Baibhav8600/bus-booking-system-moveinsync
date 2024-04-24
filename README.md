@@ -1,6 +1,6 @@
 # Bus-Booking
 
-This is the Bus-Booking-System assignment for MoveInSync. It is an online bus booking system with abilities to book tickets, look for available seats, login and register etc.
+This is the Bus-Booking-System. It is an online bus booking system with abilities to book tickets, look for available seats, login and register etc.
 
 ## Steps to run the application locally
 1. The app is divided into two divisons, frontend and backend.
